@@ -6,6 +6,16 @@ An end-to-end data analytics portfolio project analyzing air cargo operations at
 ## 📊 Power BI Dashboard Preview
 
 ![Air Cargo Power BI Dashboard](PowerBI_screenshot.png)
+
+🔍 Key Insights
+
+- Analyzed total air cargo volume and cargo weight.
+- Compared domestic and international cargo distribution.
+- Identified top airlines by cargo weight.
+- Examined monthly cargo trends.
+- Analyzed cargo distribution by aircraft type.
+- Explored geographic cargo movement patterns.
+  
 🎯 Business Objectives
 
 - Analyze overall air cargo volume and operational activity.
