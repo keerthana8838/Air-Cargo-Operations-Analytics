@@ -104,4 +104,8 @@ Completed SQL analysis and interactive Power BI dashboard development.
 
 👤 Author
 
-Data Analytics Portfolio Project
+## 👩‍💻 Author
+
+**Keerthana S.**  
+Aspiring Data Analyst  
+Skills: SQL | Power BI | Excel
