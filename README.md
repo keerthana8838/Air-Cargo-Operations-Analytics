@@ -102,9 +102,7 @@ Air_Cargo_Analytics_Project/
 
 Completed SQL analysis and interactive Power BI dashboard development.
 
-👤 Author
-
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Keerthana S.**  
 Aspiring Data Analyst  
