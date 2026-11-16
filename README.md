@@ -54,6 +54,10 @@ An end-to-end data analytics portfolio project analyzing air cargo operations at
 - Geographic region analysis.
 - Cargo aircraft type analysis.
 
+📂 SQL Project Files
+
+[View SQL Analysis Queries](Air_Cargo_Analytics_Project/air_cargo_analytics.sql)
+
 📈 Key Findings
 
 - International cargo represents approximately 67% of cargo weight in the imported SQL dataset.
