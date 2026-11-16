@@ -26,10 +26,10 @@ An end-to-end data analytics portfolio project analyzing air cargo operations at
 
 🛠️ Tools & Technologies
 
-- MySQL: Data querying, aggregation, and business analysis.
-- Power BI: Interactive dashboard and KPI visualization.
-- Excel / Power Query: Data preparation and transformation.
-- SQL: GROUP BY, ORDER BY, aggregate functions, date functions, subqueries.
+- **SQL / MySQL** – Data analysis and querying
+- **Power BI** – Interactive dashboard development
+- **Excel** – Data preparation and validation
+- **GitHub** – Project documentation and portfolio hosting
 
 📊 Dashboard Highlights
 
