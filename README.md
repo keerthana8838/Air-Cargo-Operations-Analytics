@@ -3,7 +3,9 @@
 📌 Project Overview
 
 An end-to-end data analytics portfolio project analyzing air cargo operations at San Francisco International Airport (SFO). This project uses SQL, Power BI, and data visualization to identify cargo performance patterns, airline contributions, and geographic distribution.
+## 📊 Power BI Dashboard Preview
 
+![Air Cargo Power BI Dashboard](PowerBI_screenshot.png)
 🎯 Business Objectives
 
 - Analyze overall air cargo volume and operational activity.
